@@ -1,2 +1,4 @@
-TrianglesProject/Library
-TrianglesProject/Temp
+unity/Library
+unity/Temp
+unity/.vscode
+unity/Logs
